@@ -3,11 +3,11 @@ Ce projet a pour but de réaliser un portfolio comprenant une base de données u
 
 
 Ce GIT se compose de différents fichiers:
--Un fichier index.php pour la page d'acceuil
--Un fichier admin.php pour la page d'administartion
--Un fichier CSS.css pour toute la partie CSS des pages
+- Un fichier index.php pour la page d'acceuil
+- Un fichier admin.php pour la page d'administartion
+- Un fichier CSS.css pour toute la partie CSS des pages
 - Un fichier Dossier de conception pour toutes les parties annexes du projet telles que La BDD des MCD Merise ainsi que des commentaires sur le projet.
--Un README pour décrire le projet
+- Un README pour décrire le projet
 
 
 Applications et langages utilisés:
