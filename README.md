@@ -2,6 +2,13 @@
 Ce projet a pour but de réaliser un portfolio comprenant une base de données un accès administrateur ainsi qu'un formulaire de contact opérationnels.
 
 
+Ce GIT se compose de différents fichiers:
+-Un fichier index.php pour la page d'acceuil
+-Un fichier admin.php pour la page d'administartion
+-Un fichier CSS.css pour toute la partie CSS des pages
+- Un fichier Dossier de conception pour toutes les parties annexes du projet telles que La BDD des MCD Merise ainsi que des commentaires sur le projet.
+-Un README pour décrire le projet
+
 
 Applications et langages utilisés:
 
@@ -36,77 +43,6 @@ Elle à pour but de stocker toutes les informations du site dans des tables pour
 Ainsi que de stocker les informations recueillis via le formulaire de contact.
 
 //
-
-Partie organisation du projet:
-
-Tout d'abord le projet n'a pas pus aboutir au résultats attendue et est donc inachevé(et le restera).
-L'organisation a été chaotique bien que des rendus intermédiaire ont permis un rendu de projet acceptable.
-
-L'ensemble des Rendus intermédiaires :
-
-
-
-Phase 1:
-
-Résumée des taches :
-J’ai réalisé le planning ainsi que le Gantt qui sont pour l’instant très théorique.
-Après la Réalisation d’un cahier des charges je pourrai détailler et peaufiner la gestion des tâches.
-Difficultés rencontrées et solutions :
--	Avoir des prévisions de durée des taches correct (solutions : être en accord avec le planning et les documents fournies)
--	Les applications PHP Apache ainsi que PostgreSQL ont été installé sur la Debian 9 mais malheureusement je n’arrive pas à faire fonctionner quoi que se soit. Cela est beaucoup trop obscure pour moi car les ressources sur Internet sont nombreuses mais peu adaptées.
-
-/
-
-Phase 2 : 
-Tâches réalisées : 
-- UML des cas typique d’utilisation 
-- MCD Merise 
-- Maquette/Wireframe du site web 
-- Base de données version 1 
- 
-Difficultés rencontrées et solutions : 
-Créer une base de données cohérente qui pousse à devoir préciser de nombreuses données alors que le site n’a pas encore commencé à être codé. 
-Maquette encore trop générale et n’ayant pas de design suffisamment développer. 
-De nombreuses fonctionnalités pas encore mis en place :(Stockage image/Echappement des messages/WYSIWYG) 
-
-/
-
-Phase 3:
-Travaux réalisés
-Lors de cette j’ai réalisé les maquette statique HTML/CSS pour le site ainsi que la page d’administration.
-Mes travaux ont été incorporer dans un git que j’ai réalisé.
-J’ai également ouvert mon site via un serveur php sur ma debian.
-J’ai rempli une base de données SQL sur postgresql de table.
-
-Difficultés rencontrées :
-Les maquettes ne sont pas totalement finies de plus la base de données n’est pas encore relié aux site et les php pas encore implémenter.
-J’ai eu beaucoup de mal et j’encore beaucoup de mal avec le site en html/Css et avec la gestion serveur/php/base de données.
-
-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
