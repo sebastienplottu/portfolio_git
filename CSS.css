@@ -1,0 +1,231 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+
+body{
+ 
+    font-family: "palatino linotype", palatino, serif;
+    font-size: 20px;
+    margin:0;
+background-color: currentColor;
+    
+}
+
+a {
+text-decoration: none; 
+color: black;
+    border-color: whitesmoke;
+}
+p{ margin-bottom: 0;
+    margin-top: 0;
+}
+h1{
+       font-family: 'Text Me One', sans-serif;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+
+nav{
+    
+    font-family: 'Text Me One', sans-serif;
+   
+     list-style:none;
+     display: inline-block;
+    position: fixed;
+    width: 100%;
+  text-align: center;
+}
+nav li:hover{
+    background-color:thistle;
+   
+    
+}
+nav:first-child:hover{
+    background-color: currentColor;
+}
+
+
+
+nav li{
+   
+    background-color: whitesmoke;
+  border-width:5px;  
+    border-style:ridge;
+     display: inline-block;
+  padding-right: 80px;
+}
+
+body>div:nth-child(2){  
+  
+    text-align: center;
+   background-image:url(https://cdn.pixabay.com/photo/2018/07/08/01/44/mountains-3523153_1280.jpg); 
+    background-repeat: no-repeat;
+     background-size: cover;
+height:600px;
+
+}
+
+
+section div li{
+     text-align: justify;
+    
+}
+
+article>div{
+   border: 5px solid black;
+   
+    text-align: center;
+    background-color:lightblue;
+   margin-left: 30%;
+    margin-right: 30%;
+     width: 600px;
+    height: 600px;
+}
+h2{ margin-bottom: 10px;
+ margin-top: 0px;
+color: lightblue;
+    
+
+}
+
+#cpt{  background-image: url(https://images.unsplash.com/photo-1445452916036-9022dfd33aa8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f905eaaf1772427eb1b9e0b17df51efe&auto=format&fit=crop&w=1053&q=80);
+    background-repeat: no-repeat;
+  background-size: 100%;
+     height:600px;
+}
+
+#exp{ 
+    background-image: url(https://images.unsplash.com/photo-1444065707204-12decac917e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f624ed976f195082fe69f5603de9b1ad&auto=format&fit=crop&w=1053&q=80);
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:600px;
+}
+
+#cent{
+    background-image: url(https://images.unsplash.com/photo-1466853817435-05b43fe45b39?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6d9c31429c32b6ff940e95a558778b47&auto=format&fit=crop&w=989&q=80);
+    background-repeat: no-repeat;
+    background-size: 100%;
+     height:600px;
+}
+
+#con{
+    background-image: url(https://cdn.pixabay.com/photo/2013/11/18/20/14/virginia-212785_960_720.jpg);
+     
+    background-repeat: no-repeat;
+    background-size: 100%;
+         height:600px;
+}
+#présentation{
+    text-align: center;
+    padding-top: 210px ;
+
+}
+
+#formulaire_de_contact{
+    margin-left: 1%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+#formulaire{
+    
+    background-color: lightblue;
+}
+
+#S{
+
+
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 150px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+@media(max-width:1090px){
+    
+    article>div{ margin-left: 22%;
+    margin-right: 25%;
+        
+    }
+}
+
+
+
+
+@media(max-width:769px){
+    
+   
+}
+   
+@media(max-width:420px){
+      article>div{ margin-left: 0%;
+   text-align: left;
+        
+    }
+    nav{font-size: 15px;
+   position: relative;
+    }
+    
+
+}
+
+
+@media(max-width:380px){
+    
+   
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
