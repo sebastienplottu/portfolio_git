@@ -29,6 +29,8 @@ exemple URL :(localhost:8000)
 //
 Base de données:
 La base de données utilisé est une base données SQL avec postgreSQL via PgAdmin 4 version 3.6.
+
 Elle à pour but de stocker toutes les informations du site dans des tables pour pouvir les modifiés
+
 Ainsi que de stocker les informations recueillis via le formulaire de contact.
 //
